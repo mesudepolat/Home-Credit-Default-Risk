@@ -5,7 +5,7 @@ https://www.kaggle.com/c/home-credit-default-risk
 
 Reference notebook : https://www.kaggle.com/jsaguiar/lightgbm-with-simple-features
 
-## 1.Loading Packages
+## 1.Packages
 * certifi==2020.12.5
 * chardet==4.0.0
 * cycler==0.10.0
