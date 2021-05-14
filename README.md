@@ -76,7 +76,5 @@ Reference notebook : https://www.kaggle.com/jsaguiar/lightgbm-with-simple-featur
 
 
 
-## 3.Understanding The Data
-## 4.Exploratory Data Analysis
-## Model Building : Part I
+## 3.Model Building
 ## Model Building: Part II
