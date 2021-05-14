@@ -69,7 +69,9 @@ Reference notebook : https://www.kaggle.com/jsaguiar/lightgbm-with-simple-featur
   * Repayment history for the previously disbursed credits in Home Credit related to the loans in our sample.
   * There is a) one row for every payment that was made plus b) one row each for missed payment. One row is equivalent to one payment of one installment OR one installment corresponding to one payment of one previous Home Credit credit related to loans in our sample.
 
+* HomeCredit_columns_description.csv
 
+  * This file contains descriptions for the columns in the various data files.
 
 
 
