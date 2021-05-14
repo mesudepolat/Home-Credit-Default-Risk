@@ -5,7 +5,7 @@ https://www.kaggle.com/c/home-credit-default-risk
 
 Reference notebook : https://www.kaggle.com/jsaguiar/lightgbm-with-simple-features
 
-1.Loading Packages
+## 1.Loading Packages
 2.Data
 3.Understanding The Data
 4.Exploratory Data Analysis
