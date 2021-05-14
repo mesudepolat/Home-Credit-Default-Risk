@@ -14,6 +14,27 @@ Reference notebook : https://www.kaggle.com/jsaguiar/lightgbm-with-simple-featur
 * Lightgbm
 
 ## 2.Data
+* application_{train|test}.csv
+
+  * This is the main table, broken into two files for Train (with TARGET) and Test (without TARGET).
+  * Static data for all applications. One row represents one loan in our data sample.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## 3.Understanding The Data
 ## 4.Exploratory Data Analysis
 ## Model Building : Part I
