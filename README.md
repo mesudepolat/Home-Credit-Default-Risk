@@ -21,8 +21,8 @@ Reference notebook : https://www.kaggle.com/jsaguiar/lightgbm-with-simple-featur
 
 * bureau.csv
 
- * All client's previous credits provided by other financial institutions that were reported to Credit Bureau (for clients who have a loan in our sample).
- * For every loan in our sample, there are as many rows as number of credits the client had in Credit Bureau before the application date.
+  * All client's previous credits provided by other financial institutions that were reported to Credit Bureau (for clients who have a loan in our sample).
+  * For every loan in our sample, there are as many rows as number of credits the client had in Credit Bureau before the application date.
 
 * bureau_balance.csv
 
