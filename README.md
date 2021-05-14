@@ -29,6 +29,10 @@ Reference notebook : https://www.kaggle.com/jsaguiar/lightgbm-with-simple-featur
   * Monthly balances of previous credits in Credit Bureau.
   * This table has one row for each month of history of every previous credit reported to Credit Bureau – i.e the table has (#loans in sample * # of relative previous credits * #   of months where we have some history observable for the previous credits) rows.
 
+* POS_CASH_balance.csv
+
+  * Monthly balance snapshots of previous POS (point of sales) and cash loans that the applicant had with Home Credit.
+  * This table has one row for each month of history of every previous credit in Home Credit (consumer credit and cash loans) related to loans in our sample – i.e. the table has (#loans in sample * # of relative previous credits * # of months in which we have some history observable for the previous credits) rows.
 
 
 
