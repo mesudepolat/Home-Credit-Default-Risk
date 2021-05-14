@@ -74,7 +74,7 @@ Reference notebook : https://www.kaggle.com/jsaguiar/lightgbm-with-simple-featur
   * This file contains descriptions for the columns in the various data files.
 
 
-## 3.Model Building
+## 3.Understanding The Data
 
 ![home_credit](https://user-images.githubusercontent.com/61362079/118275281-e8630c00-b4ce-11eb-93bb-4b9b115a5ded.png)
 
