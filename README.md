@@ -39,6 +39,7 @@ Reference notebook : https://www.kaggle.com/jsaguiar/lightgbm-with-simple-featur
   * This is the main table, broken into two files for Train (with TARGET) and Test (without TARGET).
   * Static data for all applications. One row represents one loan in our data sample.
 
+
 * bureau.csv
 
   * All client's previous credits provided by other financial institutions that were reported to Credit Bureau (for clients who have a loan in our sample).
