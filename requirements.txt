@@ -24,7 +24,6 @@ jsonschema==3.2.0
 jupyter==1.0.0
 jupyter-client @ file:///tmp/build/80754af9/jupyter_client_1594826976318/work
 jupyter-console @ file:///tmp/build/80754af9/jupyter_console_1598884538475/work
-jupyter-core==4.6.3
 kaggle==1.5.8
 keyring==21.4.0
 kiwisolver==1.2.0
